@@ -1,0 +1,106 @@
+body {
+    background-color: #c8dad6;
+    margin: 0;
+    text-align: center;
+    border-radius: 10px;
+    /* padding-top: 10px; */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.topcontainer {
+    background-color: rgb(139, 120, 120);
+    /* text-align/: center; */
+    position: relative;
+    padding-top: 100px;
+    border-radius: 10px;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+}
+
+.mypic {
+    /* padding-top: 20px ; */
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.profile {
+    padding-top: 20px;
+}
+
+.middle-container {
+    border-radius: 10px;
+    /* background-color: #FFFDD0; */
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 9px;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+
+.myskillpic {
+    /* background-color: yellow; */
+    border-radius: 10px;
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chiily{
+    width: 30%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+h1 {
+    font-size: 90px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 41px;
+}
+.skill-row{
+    display: inline-block;
+    width: 50%;
+   margin: 50px auto 50px auto;
+   text-align: left;
+   line-height: 2;
+}
+h3{
+    font-size: large;
+    color: blue;
+}
+/* .chd{
+    clear: right;
+} */
+.copy{
+    margin-bottom: 0;
+    color: white;
+}
+/* 11999e */
+a{
+    color: #11999e;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+ color: white;
+}
